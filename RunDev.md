@@ -27,7 +27,7 @@ dotnet watch run
 
 ## Expor aplicativo para internet
 ```bash
-lt --port 5000 --subdomain temonitoramento
+lt --port 5000 --subdomain nomeApp
 ```
 
 
